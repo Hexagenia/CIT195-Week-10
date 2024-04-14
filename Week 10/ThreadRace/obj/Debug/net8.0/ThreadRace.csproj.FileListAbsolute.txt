@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 10\ThreadRace\bin\Debug\net8.0\ThreadRace.exe
+F:\NMC\Projects\Week 10\ThreadRace\bin\Debug\net8.0\ThreadRace.deps.json
+F:\NMC\Projects\Week 10\ThreadRace\bin\Debug\net8.0\ThreadRace.runtimeconfig.json
+F:\NMC\Projects\Week 10\ThreadRace\bin\Debug\net8.0\ThreadRace.dll
+F:\NMC\Projects\Week 10\ThreadRace\bin\Debug\net8.0\ThreadRace.pdb
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.AssemblyInfo.cs
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.dll
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\refint\ThreadRace.dll
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.pdb
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ThreadRace.genruntimeconfig.cache
+F:\NMC\Projects\Week 10\ThreadRace\obj\Debug\net8.0\ref\ThreadRace.dll

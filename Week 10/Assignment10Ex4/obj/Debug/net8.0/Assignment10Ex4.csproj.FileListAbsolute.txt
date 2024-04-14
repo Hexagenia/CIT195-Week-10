@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.AssemblyInfo.cs
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 10\Assignment10Ex4\bin\Debug\net8.0\Assignment10Ex4.exe
+F:\NMC\Projects\Week 10\Assignment10Ex4\bin\Debug\net8.0\Assignment10Ex4.deps.json
+F:\NMC\Projects\Week 10\Assignment10Ex4\bin\Debug\net8.0\Assignment10Ex4.runtimeconfig.json
+F:\NMC\Projects\Week 10\Assignment10Ex4\bin\Debug\net8.0\Assignment10Ex4.dll
+F:\NMC\Projects\Week 10\Assignment10Ex4\bin\Debug\net8.0\Assignment10Ex4.pdb
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.dll
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\refint\Assignment10Ex4.dll
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.pdb
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\Assignment10Ex4.genruntimeconfig.cache
+F:\NMC\Projects\Week 10\Assignment10Ex4\obj\Debug\net8.0\ref\Assignment10Ex4.dll

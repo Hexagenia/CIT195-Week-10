@@ -1,0 +1,14 @@
+F:\NMC\Projects\Week 10\taskRace\bin\Debug\net8.0\taskRace.exe
+F:\NMC\Projects\Week 10\taskRace\bin\Debug\net8.0\taskRace.deps.json
+F:\NMC\Projects\Week 10\taskRace\bin\Debug\net8.0\taskRace.runtimeconfig.json
+F:\NMC\Projects\Week 10\taskRace\bin\Debug\net8.0\taskRace.dll
+F:\NMC\Projects\Week 10\taskRace\bin\Debug\net8.0\taskRace.pdb
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.GeneratedMSBuildEditorConfig.editorconfig
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfoInputs.cache
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.AssemblyInfo.cs
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.csproj.CoreCompileInputs.cache
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.dll
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\refint\taskRace.dll
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.pdb
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\taskRace.genruntimeconfig.cache
+F:\NMC\Projects\Week 10\taskRace\obj\Debug\net8.0\ref\taskRace.dll
